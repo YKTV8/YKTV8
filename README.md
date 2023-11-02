@@ -29,7 +29,7 @@ This is an overiew of the Engineer/Developer/Programmer. I am a Fullstack Softwa
 
 ### :fire: My Stats: 
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=YKTV8" alt="GitHub Streak" /></a>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=YKTV8" alt="GitHub Streak" />
 
 ## Contact
 
