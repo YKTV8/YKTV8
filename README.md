@@ -1,12 +1,9 @@
 # YKTV8 Overview
-This is an overiew of the Engineer/Developer/Programmer. I am a Fullstack Software Engineer from Washington State.
+ Let me provide you with a glimpse into the role of an Engineer/Developer/Programmer. I proudly hail from Washington State and specialize as a Fullstack Software Engineer. I possess a strong and unwavering commitment to delivering technical solutions to local small business owners. In my role as their primary software solution provider, I am dedicated to ensuring that they remain well-informed and up-to-date with the latest technology trends, allowing them to concentrate on their core business activities.
 
-* With my veristaly knowledge in insurance for contractors, I develop web applications for their needs.
+* Utilizing my extensive expertise within the insurance sector for contractors, I create web applications tailored to meet their specific requirements.
 
-* 
-* In my free time, I volunteer time with a local non-profit organization for youth sports for their web application. 
-
-* 
+* During my spare hours, I dedicate my time to volunteering with a local nonprofit organization that serves youth sports by working on their web application.
 
 ### :hammer_and_wrench: Languages and Tools:
 
