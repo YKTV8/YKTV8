@@ -33,6 +33,8 @@ This is an overiew of the Engineer/Developer/Programmer. I am a Fullstack Softwa
 
 ## Contact
 
+**LinkedIn** <p>LinkedIn<a href="https://www.linkedin.com/in/geoffrey-matthews-95165b244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"></a></p>
+
 **Email** GMatthews2787@outlook.com
 
 **Twitter** @GMatthews87
