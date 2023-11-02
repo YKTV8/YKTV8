@@ -28,7 +28,9 @@ This is an overiew of the Engineer/Developer/Programmer. I am a Fullstack Softwa
 
 
 ### :fire: My Stats: 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YKTV8)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=YKTV8" alt="GitHub Streak" /></a>
+
 ## Contact
 
 **Email** GMatthews2787@outlook.com
